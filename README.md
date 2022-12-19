@@ -2,9 +2,9 @@
 
 Movies app
 
-## Stargin
+## Desciption
 
-An app displaying current and upcomming movies.
+An app displaying current and upcomming movies.User can search movies by name or select genre for filtering options.
 
 ## Tech Stack
 
